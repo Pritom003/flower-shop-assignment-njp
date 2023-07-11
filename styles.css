@@ -187,34 +187,18 @@ width: auto;
  margin-right: 30px;
 }
 /*..sec7..
-.sec7{
-  border-radius: 0.5rem;
-background-image: url("Flower Asset/Rectangle 9.png") ;
-background-color: aliceblue;
 
-height: 30rem;
-width: 60rem;
-margin-left: 20rem;
-margin-right: 15rem;
-margin-top: 5rem ;
+
+ ..*/
+ .bgi{
+  width: 50%;
+margin: auto;
+background-image: url("Flower Asset/Rectangle 9.png");
+background-repeat: no-repeat;
+background-size: cover;
 justify-content: center;
 text-align: center;
-background-repeat: no-repeat;
-background-position: ;
-padding: .9rem ;
-align-items: center;
 
-}
-input {
-
-  border-radius: 0.5rem;
-background: #FFF;
-border: 0;
-padding: 1rem 15rem 1rem 1rem;
-  margin-top: 1rem;
-border-left:4rem ;
-border-right: 6rem;
-  
  }
  .get{
   color:rgba(39, 39, 39, 1) ;
@@ -225,15 +209,28 @@ border-right: 6rem;
   padding-top: 8rem;
   
 
- }..*/
- .bgi{
-  width: 80%;
-margin: auto;
-background-image: url("Flower Asset/Rectangle 9.png");
-background-repeat: no-repeat;
-background-size: cover;
+  
  }
+ input {
 
+  border-radius: 0.5rem;
+background: #FFF;
+border: 0;
+padding: 1rem 15rem 1rem 1rem;
+  margin-top: 1rem;
+border-left:4rem ;
+border-right: 6rem;
+margin-bottom: 5rem;
+  
+ }
+ .sec7{
+  border-radius: 0.5rem;
+
+
+padding: .9rem ;
+align-items: center;
+
+}
 
 
 
