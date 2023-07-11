@@ -186,7 +186,7 @@ width: auto;
 .ext{
  margin-right: 30px;
 }
-/*..sec7..*/
+/*..sec7..
 .sec7{
   border-radius: 0.5rem;
 background-image: url("Flower Asset/Rectangle 9.png") ;
@@ -225,6 +225,13 @@ border-right: 6rem;
   padding-top: 8rem;
   
 
+ }..*/
+ .bgi{
+  width: 80%;
+margin: auto;
+background-image: url("Flower Asset/Rectangle 9.png");
+background-repeat: no-repeat;
+background-size: cover;
  }
 
 
