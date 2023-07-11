@@ -1,0 +1,273 @@
+*{
+  
+  font-family:'Lato', sans-serif; 
+  
+margin-bottom: 0px;
+margin: 0px;
+font-size: 10px;
+
+}
+/*...for the header section only ...*/
+header{
+ display: flex;
+ background-color: rgba(229, 84, 115, 0.1);
+ justify-content: center;
+ width:100%;
+ max-height: 50rem;
+ margin-bottom: 5rem;
+ 
+}
+.creativity{
+ color:rgba(39, 39, 39, 1) ;
+ font-size: 1.5rem;
+ font-weight: 80rem;
+ margin-bottom: 2rem;
+ font-style: bold;
+ line-height: 2.3rem;
+}
+.ashfont{
+ color: rgba(39, 39, 39, 0.60);
+font-size: .7rem;
+font-weight: .3rem;
+line-height: 7px;
+margin-bottom: .5rem;
+
+}
+.btn-norm{
+  border-radius: .02rem;
+  background: #E55473;
+  color: white;
+  border: none;
+  padding: .6rem 1rem;
+  
+
+}
+.greetings{
+ max-width: 25rem;
+ 
+ padding-left: .05rem;
+ padding-top: 5rem;
+padding-bottom: 10rem; 
+ 
+
+}
+#one{
+  max-height: 35rem;
+  padding-bottom: 0;
+  padding-left: 2rem;
+  padding-right: .05rem;
+
+  
+}
+/*..this is the end of header..*/
+.sec3{
+ display: flex;
+ text-align: center;
+ justify-content: center;
+ width: 130rem;
+ height: 35rem;
+ background-color: rgb(148, 145, 145);
+ margin-left: 35rem;
+ 
+ 
+
+}
+.deli{
+ margin-right: 20rem;
+ margin-left: 10rem;
+}
+/*...the begining of the main .*/
+#secondsec {
+ color: rgba(11, 1, 1, 0.6);
+text-align: center;
+margin-top: 3rem; 
+margin-bottom: 5rem;
+}
+.sec-2{
+ text-align: center;
+ margin-bottom: 5rem;
+display: flex;
+justify-content: center;
+ 
+
+}
+a{
+  color: black;
+  font-weight: .3rem;
+  font-size: .5rem;
+}
+#imgone {
+ background-color: rgba(167, 33, 98, 0.15);
+ border-radius: 7rem 7rem 0 0;
+ 
+ height: 14.3rem;
+ width: auto;
+ padding-top: .3rem;
+ padding: 1rem .8rem 0rem .8rem;
+ 
+
+
+}
+#img2{
+
+background: rgb(204, 238, 239);
+border-radius: 7rem 7rem 0 0;
+height: 15rem;
+ width: auto;
+ width: 10rem;
+ padding : .3rem .5rem 0rem .5rem;
+ margin-left: .9rem;
+
+
+}
+
+#img3{
+ border-radius: ;
+background: rgb(225, 238, 213);
+border-radius: 7rem 7rem 0 0;
+height: 15.3rem;
+margin-left: .9rem;
+padding-left: .3rem;
+padding-right: .3rem;
+
+
+
+}
+/*...section3 will go here */
+/*...section 4starts..*/
+.sec4 {
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+background: rgba(229, 84, 115, 0.05);
+margin-bottom: 5rem;
+margin-top: 5rem;
+
+}
+.sale{
+ 
+ padding-top: 3rem;
+ 
+ color:rgba(39, 39, 39, 1) ;
+ font-size: 1.5rem;
+ font-weight: 80rem;
+ 
+ font-style: bold;
+ 
+}
+#imgsec4{
+ margin-top: 75px;
+ padding-bottom: 60px;
+}
+.off{
+ color: #df13d1;
+ font-size: 1.5rem;
+ font-weight: 80rem;
+ font-style: bold;
+}
+/*..sec5...*/
+.sec5{
+ text-align: center;
+ margin-bottom: 5rem;
+}
+/*...sec6..*/
+.sec6{
+text-align: center;
+display: flex;
+justify-content: center;
+height: 10rem;
+width: auto;
+
+
+
+}
+.ext{
+ margin-right: 30px;
+}
+/*..sec7..*/
+.sec7{
+  border-radius: 0.5rem;
+background-image: url("Flower Asset/Rectangle 9.png") ;
+background-color: aliceblue;
+
+height: 30rem;
+width: 60rem;
+margin-left: 20rem;
+margin-right: 15rem;
+margin-top: 5rem ;
+justify-content: center;
+text-align: center;
+background-repeat: no-repeat;
+background-position: ;
+padding: .9rem ;
+align-items: center;
+
+}
+input {
+
+  border-radius: 0.5rem;
+background: #FFF;
+border: 0;
+padding: 1rem 15rem 1rem 1rem;
+  margin-top: 1rem;
+border-left:4rem ;
+border-right: 6rem;
+  
+ }
+ .get{
+  color:rgba(39, 39, 39, 1) ;
+  font-size: 1.5rem;
+  font-weight: 80rem;
+  
+  font-style: bold;
+  padding-top: 8rem;
+  
+
+ }
+
+
+
+
+
+
+
+
+
+/*...footer..*/
+footer{
+ background-color: black;
+ text-align: center;
+ margin-top: 50px;
+ padding-top: 150px;
+ padding-bottom: 150px;
+}
+#flr{
+ color: #E55473;
+
+font-size: 3rem;
+
+font-weight: 8rem;
+line-height: normal;
+
+
+}
+#sh{
+ color: #f5f4f4;
+
+font-size: 3rem;
+
+font-weight: 8rem;
+line-height: normal;
+}
+#np{
+  font-weight: .03rem ;
+  font-size: .6rem;
+ color: white;
+ padding-bottom:.5rem ;
+}
+#pl{
+ color: rgb(152, 147, 147);
+ 
+}
